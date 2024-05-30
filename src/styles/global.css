@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+button {
+  background-color: rgb(199, 190, 190);
+  padding: 2px 8px;
+  margin: 5px;
+  border-radius: 5px;
+}
+.red {
+  color: #f1526f;
+}
+.black {
+  color: black;
+}
+.white {
+  color: white;
+}
+
+.newColor {
+  background-color: #bcd1ff;
+}
+
+.sessionBox {
+  background-color: #5e6cb2;
+}
