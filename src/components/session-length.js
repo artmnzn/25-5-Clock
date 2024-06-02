@@ -102,7 +102,7 @@ export default function SessionLength() {
 
   return (
     <div className="h-screen justify-center flex">
-      <div className="w-[450px] rounded-full text-center h-[450px] m-auto space-y-5 drop-shadow-lg border pt-5 sessionBox shadow-xl overflow-hidden">
+      <div className="w-[425px] rounded-full text-center h-[425px] m-auto space-y-4 drop-shadow-lg border pt-5 sessionBox shadow-xl overflow-hidden">
         <h1 className="font-bold text-[30px] text-white">25 + 5 Clock</h1>
         <div id="break-label" className="font-bold text-lg text-white">
           Break Length
